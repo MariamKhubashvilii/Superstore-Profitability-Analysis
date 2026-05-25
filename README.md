@@ -20,7 +20,7 @@ Exploratory data analysis and binary classification on the Sample Superstore dat
 
 ## Results
 
-![Summary](summary.png)
+![Summary](Summary - Superstore.png)
 
 ## Stack
 
